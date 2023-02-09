@@ -1,0 +1,219 @@
+10/25/2022 12:46:43 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:46:43 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:46:43 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:46:43 PM :INFO : test_sample_delete :None
+10/25/2022 12:49:26 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:49:26 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:49:26 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:49:26 PM :INFO : test_sample_delete :None
+10/25/2022 12:49:51 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:49:51 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:49:51 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:49:51 PM :INFO : test_sample_delete :None
+10/25/2022 12:51:04 PM :INFO : test_sample_get :*************** Test_001 *****************
+10/25/2022 12:51:04 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:04 PM :INFO : send_request :success
+10/25/2022 12:51:04 PM :INFO : test_sample_get :<models.responseModel.ResponseModel object at 0x10c7592d0>
+10/25/2022 12:51:04 PM :INFO : test_sample_post :*************** Test_002 *****************
+10/25/2022 12:51:05 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:51:05 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:51:05 PM :INFO : send_request :success
+10/25/2022 12:51:05 PM :INFO : send_request :success
+10/25/2022 12:51:05 PM :INFO : test_sample_post :<models.responseModel.ResponseModel object at 0x10c75aad0>
+10/25/2022 12:51:05 PM :INFO : test_sample_put :*************** Test_003 *****************
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : test_sample_put :<models.responseModel.ResponseModel object at 0x10c75b010>
+10/25/2022 12:51:06 PM :INFO : test_sample_patch :*************** Test_004 *****************
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : send_request :success
+10/25/2022 12:51:06 PM :INFO : test_sample_patch :<models.responseModel.ResponseModel object at 0x10c75b3d0>
+10/25/2022 12:51:06 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:51:06 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:51:06 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:51:06 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:51:06 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:51:06 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:51:06 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:51:06 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:51:06 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:51:06 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:51:06 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:51:06 PM :INFO : test_sample_delete :None
+10/25/2022 12:52:42 PM :INFO : test_sample_get :*************** Test_001 *****************
+10/25/2022 12:52:42 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:42 PM :INFO : send_request :success
+10/25/2022 12:52:42 PM :INFO : test_sample_get :<models.responseModel.ResponseModel object at 0x110ab5720>
+10/25/2022 12:52:42 PM :INFO : test_sample_post :*************** Test_002 *****************
+10/25/2022 12:52:43 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:52:43 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:52:43 PM :INFO : send_request :success
+10/25/2022 12:52:43 PM :INFO : send_request :success
+10/25/2022 12:52:43 PM :INFO : test_sample_post :<models.responseModel.ResponseModel object at 0x110ab6770>
+10/25/2022 12:52:43 PM :INFO : test_sample_put :*************** Test_003 *****************
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : test_sample_put :<models.responseModel.ResponseModel object at 0x110ab6cb0>
+10/25/2022 12:52:44 PM :INFO : test_sample_patch :*************** Test_004 *****************
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : send_request :success
+10/25/2022 12:52:44 PM :INFO : test_sample_patch :<models.responseModel.ResponseModel object at 0x110ab7070>
+10/25/2022 12:52:44 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:52:44 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:52:44 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:52:44 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:52:44 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:52:44 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:52:44 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:52:44 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:52:44 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:52:44 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:52:44 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:52:44 PM :INFO : test_sample_delete :None
+10/25/2022 12:53:28 PM :INFO : test_sample_get :*************** Test_001 *****************
+10/25/2022 12:53:28 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:28 PM :INFO : send_request :success
+10/25/2022 12:53:28 PM :INFO : test_sample_get :<models.responseModel.ResponseModel object at 0x10dc91570>
+10/25/2022 12:53:28 PM :INFO : test_sample_post :*************** Test_002 *****************
+10/25/2022 12:53:29 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:53:29 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:53:29 PM :INFO : send_request :success
+10/25/2022 12:53:29 PM :INFO : send_request :success
+10/25/2022 12:53:29 PM :INFO : test_sample_post :<models.responseModel.ResponseModel object at 0x10dc92380>
+10/25/2022 12:53:29 PM :INFO : test_sample_put :*************** Test_003 *****************
+10/25/2022 12:53:29 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:29 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:29 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:29 PM :INFO : send_request :success
+10/25/2022 12:53:29 PM :INFO : send_request :success
+10/25/2022 12:53:29 PM :INFO : send_request :success
+10/25/2022 12:53:29 PM :INFO : test_sample_put :<models.responseModel.ResponseModel object at 0x10dc928c0>
+10/25/2022 12:53:29 PM :INFO : test_sample_patch :*************** Test_004 *****************
+10/25/2022 12:53:30 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:30 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:30 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:30 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:30 PM :INFO : send_request :success
+10/25/2022 12:53:30 PM :INFO : send_request :success
+10/25/2022 12:53:30 PM :INFO : send_request :success
+10/25/2022 12:53:30 PM :INFO : send_request :success
+10/25/2022 12:53:30 PM :INFO : test_sample_patch :<models.responseModel.ResponseModel object at 0x10dc92c80>
+10/25/2022 12:53:30 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:53:49 PM :INFO : test_sample_get :*************** Test_001 *****************
+10/25/2022 12:53:49 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:49 PM :INFO : send_request :success
+10/25/2022 12:53:49 PM :INFO : test_sample_get :<models.responseModel.ResponseModel object at 0x10dc919f0>
+10/25/2022 12:53:49 PM :INFO : test_sample_post :*************** Test_002 *****************
+10/25/2022 12:53:50 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:53:50 PM :INFO : send_request :<Response [201]>
+10/25/2022 12:53:50 PM :INFO : send_request :success
+10/25/2022 12:53:50 PM :INFO : send_request :success
+10/25/2022 12:53:50 PM :INFO : test_sample_post :<models.responseModel.ResponseModel object at 0x10dc929b0>
+10/25/2022 12:53:50 PM :INFO : test_sample_put :*************** Test_003 *****************
+10/25/2022 12:53:50 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:50 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:50 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:50 PM :INFO : send_request :success
+10/25/2022 12:53:50 PM :INFO : send_request :success
+10/25/2022 12:53:50 PM :INFO : send_request :success
+10/25/2022 12:53:50 PM :INFO : test_sample_put :<models.responseModel.ResponseModel object at 0x10dc92ef0>
+10/25/2022 12:53:50 PM :INFO : test_sample_patch :*************** Test_004 *****************
+10/25/2022 12:53:51 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:51 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:51 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:51 PM :INFO : send_request :<Response [200]>
+10/25/2022 12:53:51 PM :INFO : send_request :success
+10/25/2022 12:53:51 PM :INFO : send_request :success
+10/25/2022 12:53:51 PM :INFO : send_request :success
+10/25/2022 12:53:51 PM :INFO : send_request :success
+10/25/2022 12:53:51 PM :INFO : test_sample_patch :<models.responseModel.ResponseModel object at 0x10dc932b0>
+10/25/2022 12:53:51 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 12:53:51 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:53:51 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:53:51 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:53:51 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:53:51 PM :INFO : send_request :Exception Occurred
+10/25/2022 12:53:51 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:53:51 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:53:51 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:53:51 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:53:51 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 12:53:51 PM :INFO : test_sample_delete :None
+10/25/2022 01:00:19 PM :INFO : test_sample_get :*************** Test_001 *****************
+10/25/2022 01:00:19 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:19 PM :INFO : send_request :success
+10/25/2022 01:00:19 PM :INFO : test_sample_get :<models.responseModel.ResponseModel object at 0x10dee12a0>
+10/25/2022 01:00:19 PM :INFO : test_sample_post :*************** Test_002 *****************
+10/25/2022 01:00:20 PM :INFO : send_request :<Response [201]>
+10/25/2022 01:00:20 PM :INFO : send_request :<Response [201]>
+10/25/2022 01:00:20 PM :INFO : send_request :success
+10/25/2022 01:00:20 PM :INFO : send_request :success
+10/25/2022 01:00:20 PM :INFO : test_sample_post :<models.responseModel.ResponseModel object at 0x10dee2a70>
+10/25/2022 01:00:20 PM :INFO : test_sample_put :*************** Test_003 *****************
+10/25/2022 01:00:20 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:20 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:20 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:20 PM :INFO : send_request :success
+10/25/2022 01:00:20 PM :INFO : send_request :success
+10/25/2022 01:00:20 PM :INFO : send_request :success
+10/25/2022 01:00:20 PM :INFO : test_sample_put :<models.responseModel.ResponseModel object at 0x10dee2fb0>
+10/25/2022 01:00:20 PM :INFO : test_sample_patch :*************** Test_004 *****************
+10/25/2022 01:00:21 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:21 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:21 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:21 PM :INFO : send_request :<Response [200]>
+10/25/2022 01:00:21 PM :INFO : send_request :success
+10/25/2022 01:00:21 PM :INFO : send_request :success
+10/25/2022 01:00:21 PM :INFO : send_request :success
+10/25/2022 01:00:21 PM :INFO : send_request :success
+10/25/2022 01:00:21 PM :INFO : test_sample_patch :<models.responseModel.ResponseModel object at 0x10dee3370>
+10/25/2022 01:00:21 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 01:00:21 PM :INFO : send_request :Exception Occurred
+10/25/2022 01:00:21 PM :INFO : send_request :Exception Occurred
+10/25/2022 01:00:21 PM :INFO : send_request :Exception Occurred
+10/25/2022 01:00:21 PM :INFO : send_request :Exception Occurred
+10/25/2022 01:00:21 PM :INFO : send_request :Exception Occurred
+10/25/2022 01:00:21 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 01:00:21 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 01:00:21 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 01:00:21 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 01:00:21 PM :INFO : send_request :delete() takes 1 positional argument but 2 were given
+10/25/2022 01:00:21 PM :INFO : test_sample_delete :None
+10/25/2022 01:01:56 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 01:01:56 PM :INFO : send_request :<Response [403]>
+10/25/2022 01:01:56 PM :INFO : send_request :success
+10/25/2022 01:01:56 PM :INFO : test_sample_delete :None
+10/25/2022 01:03:16 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 01:03:17 PM :INFO : send_request :success
+10/25/2022 01:03:17 PM :INFO : send_request :<Response [403]>
+10/25/2022 01:03:17 PM :INFO : send_request :Exception Occurred
+10/25/2022 01:03:17 PM :INFO : send_request :Expecting value: line 1 column 1 (char 0)
+10/25/2022 01:03:17 PM :INFO : test_sample_delete :None
+10/25/2022 01:08:19 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 01:08:20 PM :INFO : send_request :success
+10/25/2022 01:08:20 PM :INFO : send_request :<Response [204]>
+10/25/2022 01:08:20 PM :INFO : test_sample_delete :<models.responseModel.ResponseModel object at 0x10c75fd90>
+10/25/2022 01:08:33 PM :INFO : test_sample_delete :*************** Test_005 *****************
+10/25/2022 01:08:34 PM :INFO : send_request :success
+10/25/2022 01:08:34 PM :INFO : send_request :<Response [204]>
+10/25/2022 01:08:34 PM :INFO : test_sample_delete :<models.responseModel.ResponseModel object at 0x110667a90>

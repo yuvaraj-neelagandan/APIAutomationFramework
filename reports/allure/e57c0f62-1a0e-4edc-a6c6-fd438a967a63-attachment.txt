@@ -1,0 +1,5 @@
+[32mINFO    [0m test_sample:test_sample.py:9 *************** Test_001 *****************
+[32mINFO    [0m test_sample:test_sample.py:10 ****Started  Sample test ****
+[32mINFO    [0m test_sample:test_sample.py:11 ****Hitting API****
+[32mINFO    [0m send_request:actions.py:20 success
+[32mINFO    [0m test_sample:test_sample.py:13 {'fact': 'Many cats love having their forehead gently stroked.', 'length': 52}

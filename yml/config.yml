@@ -1,0 +1,7 @@
+application_urls:
+    base_url: 'https://reqres.in/'
+    sample_get: 'api/users?page=2'
+    sample_post: 'api/users'
+    sample_put: 'api/users/2'
+    sample_patch: 'api/users/2'
+    sample_delete: 'api/users/2'
